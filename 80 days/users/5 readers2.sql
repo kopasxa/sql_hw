@@ -1,0 +1,3 @@
+USE Vokrug_Sveta
+CREATE USER readers2 WITHOUT LOGIN
+WITH DEFAULT_SCHEMA=[db_datareader]
